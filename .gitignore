@@ -6,6 +6,6 @@
 .idea
 npm-debug.log
 node_modules
-dist
+# dist
 *.sublime-project
 *.sublime-workspace
