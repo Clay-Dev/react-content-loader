@@ -1,6 +1,6 @@
 {
   "name": "@clay.global/react-content-loader",
-  "version": "1.7.6",
+  "version": "1.7.7",
   "description": "React component that uses SVG to create a collection of loaders which simulates the structure of the content that will be loaded, similar to Facebook cards loaders.",
   "repository": {
     "type": "git",
