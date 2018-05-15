@@ -42,11 +42,9 @@
         _props$y = props.y,
         y = _props$y === undefined ? 0 : _props$y,
         _props$radius = props.radius,
-        radius = _props$radius === undefined ? 50 : _props$radius,
-        _props$style = props.style,
-        style = _props$style === undefined ? {} : _props$style;
+        radius = _props$radius === undefined ? 50 : _props$radius;
 
-    return React.createElement('circle', { cx: x, cy: y, r: radius, style: style });
+    return React.createElement('circle', { cx: x, cy: y, r: radius });
   };
   exports.default = Circle;
 });
